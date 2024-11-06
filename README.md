@@ -1,5 +1,6 @@
-# SQL Mentor User Performance Analysis
-# Project No.2
+# SQL Mentor User Performance Analysis | Project No.2
+
+![SQL Data Analytics](https://github.com/ReshmaaSelvaraj/Mentor-User-Performance/blob/main/Unknown-5.jpg)
 
 ## Project Overview
 
