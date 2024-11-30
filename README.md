@@ -1,7 +1,5 @@
 # SQL Mentor User Performance Analysis | Project No.2
 
-![SQL Data Analytics](https://github.com/ReshmaaSelvaraj/Mentor-User-Performance/blob/main/Unknown-5.jpg)
-
 ## Project Overview
 
 In this project,I have analyzed user performance by creating and querying a table of user submissions. The goal is to solve a series of SQL problems to extract meaningful insights from user data.
